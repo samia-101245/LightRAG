@@ -24,4 +24,4 @@ for edge in net.edges:
         edge["title"] = edge["description"]
 
 # Save and display the network
-net.show("knowledge_graph.html")
+net.show("knowledge_graph_csv.html")
