@@ -13,11 +13,11 @@ logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
-
+#change in the model name
 rag = LightRAG(
     working_dir=WORKING_DIR,
     llm_model_func=ollama_model_complete,
-    llm_model_name="qwen2.5:latest",
+    llm_model_name="qwen2:latest",
     llm_model_max_async=4,
     llm_model_max_token_size=32768,
     llm_model_kwargs={"host": "http://localhost:11434", "options": {"num_ctx": 32768}},
