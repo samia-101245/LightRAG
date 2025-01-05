@@ -50,7 +50,7 @@ print(
 
 # Perform global search
 print(
-    rag.query("What is the course code of the document? Show the mappings of which CO maps to PO.", param=QueryParam(mode="global"))
+    rag.query("What is the course code of the document? Show the mappings of which CO maps to PO.", param=QueryParam(mode="naive"))
 )
 
 # Perform hybrid search
