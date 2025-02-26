@@ -1,0 +1,85 @@
+Course,CO,PO
+CSE103,CO1,PO 1
+CSE103,CO2,PO 1
+CSE103,CO3,PO 1
+CSE103,CO4,PO 1
+CSE105,To understand the basic building blocks of structured programming,PO 1
+CSE105,To analyze structured program,PO 1
+CSE105,To develop structuredprogram for solving computational problems,PO 1
+CSE105,To design structured program for complex computational applications,PO 1
+CSE106,CO1,PO 1
+CSE106,CO2,PO 1
+CSE106,CO3,PO 1
+CSE106,CO4,PO 1
+CSE107,"Identify issues related to the definition, creation and usage of classes and objects.",PO 1
+CSE107,To analyzeobject oriented program,PO 1
+CSE107,To develop object oriented program for solving computational problems,PO 1
+CSE107,To design object oriented program for complex computational applications,PO 1
+CSE109,To learn concepts of DC and AC circuit analysis,PO 1
+CSE109,To explain laws and methods of circuit analysis,PO 2
+CSE109,To apply laws and theorems for solving electrical circuits,PO 2
+CSE109,CO4,PO 1
+CSE110,CO1,PO 1
+CSE110,CO2,PO 1
+CSE110,CO3,PO 1
+CSE110,CO4,PO 1
+CSE200,CO1,PO 1
+CSE200,CO2,PO 1
+CSE200,CO3,PO 1
+CSE200,CO4,PO 1
+CSE205,To understand mathematical reasoning,PO 1
+CSE205,To learn theorem proving,PO 1
+CSE205,To analyze combinatorial algorithmic problems,PO 1
+CSE205,To apply discrete structuresto model real life problems,PO 1
+CSE207,To understand abstract data types,PO 1
+CSE207,To learn practical data structures,PO 1
+CSE207,To apply data structures for solving complex algorithmic problems,PO 2
+CSE207,To investigateapplicability of data structures for solving complex computational problems,PO 2
+CSE209,CO1,PO 1
+CSE209,CO2,PO 2
+CSE209,CO3,PO 2
+CSE209,CO4,PO 1
+CSE225,To understand numerical techniques for solving mathematical systems,PO 1
+CSE225,To solve mathematical problems using numerical techniques,PO 1
+CSE225,To model scientific engineering problems using numerical techniques,PO 1
+CSE225,To formulate mathematical models of practical systems using numerical methods,PO 1
+CSE245,To determine computational complexities of algorithms,PO 1
+CSE245,To explain different techniques of analysis and design of algorithm,PO 1
+CSE245,To apply algorithmic techniques for graph problems,PO 1
+CSE245,To investigate algorithmic techniques for solving complex computational problems,PO 1
+CSE246,CO1,PO 1
+CSE246,CO2,PO 1
+CSE246,CO3,PO 2
+CSE246,CO4,PO 2
+CSE248,To understand the concepts of continuous time and discrete time signals and systems,PO 1
+CSE248,To analyze continuous time and discrete time signals using mathematical transforms,PO 1
+CSE248,To solves teady-state response of linear time invariant systems,PO 1
+CSE248,CO4,PO 1
+CSE251,To understand the operation of electronic circuit elements,PO 1
+CSE251,To analyze responses of electronic circuits,PO 2
+CSE251,To design amplifier and instrumental circuits,PO 2
+CSE251,CO4,PO 1
+CSE301,To understand basic concepts of a relational database,PO 1
+CSE301,To learn data definition and manipulation languages,PO 1
+CSE301,To construct complex queries for retrieving information from databases,PO 3
+CSE301,To design and implement relational databases for information systems,PO 5
+CSE302,CO1,PO 1
+CSE302,CO2,PO 1
+CSE302,CO3,PO 3
+CSE302,CO4,PO 5
+CSE303,CO1,PO 1
+CSE303,CO2,PO 1
+CSE303,CO3,PO 1
+CSE303,CO4,PO 1
+CSE313,CO1,PO 1
+CSE313,CO2,PO 1
+CSE313,CO3,PO 1
+CSE313,CO4,PO 1
+CSE325,To identify different components of operating system,PO 1
+CSE325,To describe different techniques of resource management,PO 1
+CSE325,To apply resource management techniques for solving resource constraint problems,PO 2
+CSE325,To investigate memory and I/O issues,PO 5
+CSE345,To describe Boolean Algebraic techniques in digital circuits,PO 1
+CSE345,To analyze digital circuits,PO 2
+CSE345,To design digital circuits using Boolean Algebraic and state transition techniques,PO 3
+CSE345,To design digital circuits using HDL,PO 3
