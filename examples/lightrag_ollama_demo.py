@@ -36,7 +36,7 @@ rag = LightRAG(
 # with open("./book.txt", "r", encoding="utf-8") as f:
 #     rag.insert(f.read())
 
-file_path = 'book_ollama/demo_cse475.csv'
+file_path = 'book_ollama/output.csv'
 text_content = textract.process(file_path)
 
 rag.insert(text_content.decode('utf-8'))
