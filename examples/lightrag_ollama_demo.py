@@ -17,8 +17,8 @@ if not os.path.exists(WORKING_DIR):
 rag = LightRAG(
     working_dir=WORKING_DIR,
     llm_model_func=ollama_model_complete,
-    #llm_model_name="gemma2",
-    llm_model_name="mistral-nemo",
+    llm_model_name="gemma2",
+    #llm_model_name="mistral-nemo",
     #llm_model_name="dolphin-mistral",
     llm_model_max_async=4,
     llm_model_max_token_size=32768,
